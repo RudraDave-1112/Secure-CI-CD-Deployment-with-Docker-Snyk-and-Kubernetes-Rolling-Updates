@@ -14,5 +14,5 @@ The next phase involved deploying both versions of the application (latest and f
 
 Both deployments were validated via kubectl commands and confirmed through application outputs. The rolling update mechanism proved effective, with both versions being deployed and accessible in a controlled, staged manner.
 
-This lab demonstrated practical implementation of DevSecOps by combining secure coding practices, infrastructure automation, and resilient deployment strategies—all of which are critical components of modern cloud-native operations.
+This lab demonstrated practical implementation of DevSecOps by combining secure coding practices, infrastructure automation, and resilient deployment strategies, all of which are critical components of modern cloud-native operations.
 
